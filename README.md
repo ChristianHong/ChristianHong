@@ -4,7 +4,7 @@ I bring a unique blend of technical expertise and practical experience in softwa
 
 My journey has equipped me with a strong foundation in problem-solving and project management, skills I’ve successfully transferred from my previous careers to software development. I have a proven track record of developing dynamic web-based applications and managing complex projects. I am eager to apply my robust background in full-stack development and analytical abilities to create impactful solutions.
 
-### 🔧 Languages & Technologies
+## 🔧 Languages & Technologies
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -17,11 +17,11 @@ My journey has equipped me with a strong foundation in problem-solving and proje
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
-### ✨ Projects
+## ✨ Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHong&repo=Workout-Companion)](https://github.com/ChristianHong/Workout-Companion)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHong&repo=BasketballSimulatorProject)](https://github.com/ChristianHong/BasketballSimulatorProject)
 
-### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow ChristianHong on LinkedIn" title="Follow ChristianHong on LinkedIn"/>](https://linkedin.com/in/christianhong1)
