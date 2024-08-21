@@ -1,5 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Christian(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-
 # Hi, I'm Christian Hong - a versatile software developer based in the Chicagoland area! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 I bring a unique blend of technical expertise and practical experience in software development, complemented by a diverse professional background that includes roles as a dental assistant and a sales/marketing associate. I graduated from Tech Elevator's Java bootcamp in December 2023, where I honed my skills in full-stack development, specializing in Java, JavaScript, and PostgreSQL.
