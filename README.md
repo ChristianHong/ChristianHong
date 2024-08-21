@@ -21,7 +21,7 @@ My journey has equipped me with a strong foundation in problem-solving and proje
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHong&repo=Workout-Companion)](https://github.com/ChristianHong/Workout-Companion)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHong&repo=BasketballSimulatorProject)](https://github.com/ChristianHong/BasketballSimulatorProject)
 
-## 📫 How to reach me:
+## 📫 How to reach me
 You can reach me at the email in my GitHub profile. Follow my social!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow ChristianHong on LinkedIn" title="Follow ChristianHong on LinkedIn"/>](https://linkedin.com/in/christianhong1)
