@@ -5,6 +5,10 @@ I bring a unique blend of technical expertise and practical experience in softwa
 My journey has equipped me with a strong foundation in problem-solving and project management, skills I’ve successfully transferred from my previous careers to software development. I have a proven track record of developing dynamic web-based applications and managing complex projects. I am eager to apply my robust background in full-stack development and analytical abilities to create impactful solutions.
 
 ## 🔧 Languages & Technologies
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,mysql,mongodb,html,css,aws,git,github,react,spring&theme=light)](https://skillicons.dev)
+
+
+<!-- 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -16,6 +20,7 @@ My journey has equipped me with a strong foundation in problem-solving and proje
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+-->
 
 ## ✨ Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHong&repo=Workout-Companion)](https://github.com/ChristianHong/Workout-Companion)
