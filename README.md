@@ -1,6 +1,8 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hi, I'm Christian Hong - a versatile software developer based in the Chicagoland area! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Christian Hong and I am a software developer. 
+I bring a unique blend of technical expertise and practical experience in software development, complemented by a diverse professional background that includes roles as a dental assistant and a sales/marketing associate. I graduated from Tech Elevator's Java bootcamp in December 2023, where I honed my skills in full-stack development, specializing in Java, JavaScript, and PostgreSQL.
+
+My journey has equipped me with a strong foundation in problem-solving and project management, skills I’ve successfully transferred from my previous careers to software development. I have a proven track record of developing dynamic web-based applications and managing complex projects. I am eager to apply my robust background in full-stack development and analytical abilities to create impactful solutions.
 
 ## 🔧 Languages & Technologies
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
