@@ -23,8 +23,8 @@ My journey has equipped me with a strong foundation in problem-solving and proje
 -->
 
 ## ✨ Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHong&repo=Workout-Companion)](https://github.com/ChristianHong/Workout-Companion)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHong&repo=ecommerce-admin)](https://github.com/ChristianHong/ecommerce-admin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHong&repo=Workout-Companion&show_owner=true)](https://github.com/ChristianHong/Workout-Companion)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHong&repo=ecommerce-admin&show_owner=true)](https://github.com/ChristianHong/ecommerce-admin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHong&repo=BasketballSimulatorProject)](https://github.com/ChristianHong/BasketballSimulatorProject)
 
 ## 📫 How to reach me
